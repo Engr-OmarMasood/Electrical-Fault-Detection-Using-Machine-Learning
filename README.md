@@ -1,4 +1,4 @@
-# ⚡ Electrical Fault Detection Using Machine Learning
+# ⚡ Detecting Faults on a Three-Phase Transmission Line
 
 ## 📌 Overview
 
